@@ -4,10 +4,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="350" src="https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZGF0YSUyMHNjaWVuY2V8ZW58MHx8MHx8fDA%3D"  />
-</div>
-
 ###
 
 <h2 align="center">“Data is the new oil.” — Clive Humby</h2>
@@ -21,6 +17,9 @@
 <h2 align="center">TECH-SKILLS</h2>
 
 ###
+<div align="center">
+  <img height="350" src="https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZGF0YSUyMHNjaWVuY2V8ZW58MHx8MHx8fDA%3D"  />
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ersaurabhkumar&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
