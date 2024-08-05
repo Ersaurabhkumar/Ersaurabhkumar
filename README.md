@@ -52,7 +52,7 @@
   <a href="www.linkedin.com/in/saurabh-kumar30" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="www.twitter.com/saurabh_4_india" target="_blank">
+  <a href="www.twitter.com/saurabh_4_india/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
   <a href="er.kumarsaurabh30@gmail.com" target="_blank">
